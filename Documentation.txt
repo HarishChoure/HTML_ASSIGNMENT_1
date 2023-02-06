@@ -1,0 +1,18 @@
+
+Assignment  1 Documentation
+
+Element use in Assignment 1
+
+<!DOCTYPE HTML>  = It represent the document type and help browser to display web page.
+<head></head> = It contain metadata and title .
+<body></body> = It defines the document's body
+<p> = It use for writing paragraph
+<br> = It use for line break 
+<h1> to <h6> = Use for Heading
+<ol> = for writing ordered list
+<ul> = for unordered list
+<li>  = for list item
+<strong> = for bold 
+<i> = for italic
+&emsp; = for 4 space
+&ensp;  = for 2 space
